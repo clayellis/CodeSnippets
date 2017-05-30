@@ -1,12 +1,12 @@
 # CodeSnippets
 Xcode code snippets that I use
 
-# Installation
+## Installation
 
 1. `git clone https://github.com/clayellis/CodeSnippets.git`
 2. `cp CodeSnippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets/`
 
-# Overview
+## Overview
 
 ### localizable-strings.codesnippet
 When developing iOS apps, I like to put all of my user-facing strings into a `Localizable.strings` file to:
