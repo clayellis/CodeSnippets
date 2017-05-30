@@ -1,5 +1,5 @@
-# CodeSnippets
-Xcode code snippets that I use
+# 👨🏻‍💻 CodeSnippets
+Xcode code snippets that I use on a day-to-day basis. 
 
 ## Installation
 
