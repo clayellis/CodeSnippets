@@ -5,6 +5,7 @@ Xcode code snippets that I use
 
 1. `git clone https://github.com/clayellis/CodeSnippets.git`
 2. `cp CodeSnippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets/`
+3. Restart Xcode
 
 ## Overview
 
